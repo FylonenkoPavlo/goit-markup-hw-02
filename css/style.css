@@ -114,7 +114,7 @@ body {
   color: var(--title-light-theme-color);
 }
 
-.what-we-do-list-link.link > h3 /* заглушка без H3 работает */ {
+.what-we-do-list-link >h3/* заглушка без H3 работает */ {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.17;
